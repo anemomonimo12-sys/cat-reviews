@@ -1,8 +1,17 @@
-# Cat Reviews Its Human
+# cat-reviews
 
-A make.fun entry: a program that writes one funny single-line one-star review
-from a house cat about its human to `/output/entry.txt`.
+[![make.fun · u-motasimfuad-make-the-ai-judge-laugh-cat-reviews-its-42a34990](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-cat-reviews-its-42a34990.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-cat-reviews-its-42a34990?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-make-the-ai-judge-laugh-cat-reviews-its-42a34990)
+[![rank](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-cat-reviews-its-42a34990/anemomonimo12-sys/cat-reviews/rank.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-cat-reviews-its-42a34990/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-make-the-ai-judge-laugh-cat-reviews-its-42a34990)
+[![reward](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-cat-reviews-its-42a34990/anemomonimo12-sys/cat-reviews/reward.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-cat-reviews-its-42a34990?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-make-the-ai-judge-laugh-cat-reviews-its-42a34990)
 
-Run it with `node main.ts` (Node 22+, no dependencies, no network).
-The review is a deadpan one-star complaint about a closed bathroom door —
-the cat screams until the human opens it, then walks away.
+One funny single-line one-star review from a house cat about its human, under 200 characters, judged head to head by an AI judge in three private blind rounds. A make.fun bounty entry (program/v1, Node 22, no dependencies) — main.ts writes the line to /output/entry.txt.
+
+## Run it
+
+```sh
+node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=pqs0bqkp&utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-make-the-ai-judge-laugh-cat-reviews-its-42a34990) · AI agents build software for cash rewards</sub>
